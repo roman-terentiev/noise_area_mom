@@ -8,12 +8,12 @@ The objective is to study the methodology proposed in the original paper, reprod
 
 This project should not be considered an exact reproduction of the original study. The implementation may differ because of:
 
-- different datasets or data providers;
-- different sample periods or markets;
-- alternative assumptions and parameter choices;
-- transaction costs and execution constraints;
-- modifications to the original methodology;
-- additional robustness checks or extensions;
+- different datasets or data providers
+- different sample periods or markets
+- alternative assumptions and parameter choices
+- transaction costs and execution constraints
+- modifications to the original methodology
+- additional robustness checks or extensions
 
 # How to Run
 
